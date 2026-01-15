@@ -1,4 +1,4 @@
-package com.example.sc_launcher
+package com.pas.sclauncher
 
 import io.flutter.embedding.android.FlutterActivity
 
